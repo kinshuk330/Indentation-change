@@ -1,4 +1,4 @@
-#program to change indentation of 4 spaces to a single tab
+#program to change indentation of 4 spaces to a single tab and save alot of time
 import os
 filename=input('enter filename: ')
 file=open(filename,'r')
